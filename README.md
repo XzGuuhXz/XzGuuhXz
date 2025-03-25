@@ -1,5 +1,1 @@
-<div style="width: 200px;">
-<a href="https://github.com/XzGuuhxz/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzGuuhXz&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XzGuuhXz)
