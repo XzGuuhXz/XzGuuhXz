@@ -16,7 +16,6 @@ Sou apaixonado por entender como o software e o hardware se conectam. Atualmente
 
 ## 🚀 O que estou construindo:
 
-* 🔭 Atualmente trabalhando na área elétrica, aplicando raciocínio lógico em sistemas reais.
 * 📚 Aprofundando conhecimentos em arquitetura de computadores e sistemas operacionais.
 * 💻 Desenvolvendo projetos de algoritmos e automação em Python.
 
