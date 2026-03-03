@@ -21,9 +21,23 @@ Sou apaixonado por entender como o software e o hardware se conectam. Atualmente
 
 ---
 
-## 📊 Estatísticas e Tecnologias:
+## 📊 Estatísticas e Tecnologias
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=XzGuuhXz&layout=compact&theme=vision-friendly-dark)
+### 💻 Tecnologias & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 📈 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzGuuhXz&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XzGuuhXz&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
 ---
 "Código limpo e lógica estruturada são a base de qualquer grande engenharia."
