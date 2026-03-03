@@ -34,14 +34,19 @@ Sou apaixonado por entender como o software e o hardware se conectam. Atualmente
 </p>
 
 ---
-
 ### 📈 GitHub Status
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XzGuuhXz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzGuuhXz&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
-</div>
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XzGuuhXz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XzGuuhXz&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
+      </td>
+    </tr>
+  </table>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=XzGuuhXz&theme=vision-friendly-dark&hide_border=true" />
 </div>
 
