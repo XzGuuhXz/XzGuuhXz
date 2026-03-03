@@ -9,7 +9,7 @@ Sou apaixonado por entender como o software e o hardware se conectam. Atualmente
 
 * **Linguagens:** C, C++, Python e SQL.
 * **Fundamentos:** Estrutura de Dados (Data Structures) e Programação Orientada a Objetos (POO).
-* **Ambiente:** Usuário e entusiasta de **Linux** para desenvolvimento e deploy.
+* **Ambiente:** Usuário e entusiasta de **Linux** para desenvolvimento.
 * **Ferramentas:** Git e GitHub para controle de versão.
 
 ---
